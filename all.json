@@ -1,19 +1,5 @@
 [
-  {
-    "server": "176.222.34.113",
-    "server_port": 33992,
-    "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
-    "method": "aes-256-gcm",
-    "remarks": "🇭🇷 HR",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
+ 
   {
     "server": "176.222.34.115",
     "server_port": 33992,
