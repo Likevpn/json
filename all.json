@@ -1,10 +1,10 @@
 [
   {
-    "server": "91.90.123.179",
-    "server_port": 49396,
-    "password": "BdRWC38L5JUDMTYNNxJGcUwB",
+    "server": "62.212.239.45",
+    "server_port": 47644,
+    "password": "LxzfAVfKbPqQx4SDCat7EJyE",
     "method": "aes-256-gcm",
-    "remarks": "BE 🇧🇪 Brussels 1",
+    "remarks": "(@proSSHbot)Azerbaijan2",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -15,11 +15,11 @@
     "udpdns": false
   },
   {
-    "server": "194.110.115.93",
-    "server_port": 49396,
-    "password": "BdRWC38L5JUDMTYNNxJGcUwB",
+    "server": "62.212.239.51",
+    "server_port": 47644,
+    "password": "LxzfAVfKbPqQx4SDCat7EJyE",
     "method": "aes-256-gcm",
-    "remarks": "BE 🇧🇪 Brussels 2",
+    "remarks": "(@proSSHbot)Azerbaijan3",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -30,11 +30,11 @@
     "udpdns": false
   },
   {
-    "server": "194.110.115.85",
-    "server_port": 49396,
-    "password": "BdRWC38L5JUDMTYNNxJGcUwB",
+    "server": "62.212.239.53",
+    "server_port": 47644,
+    "password": "LxzfAVfKbPqQx4SDCat7EJyE",
     "method": "aes-256-gcm",
-    "remarks": "BE 🇧🇪 Brussels 3",
+    "remarks": "(@proSSHbot)Azerbaijan4",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -45,11 +45,11 @@
     "udpdns": false
   },
   {
-    "server": "91.90.123.163",
-    "server_port": 49396,
-    "password": "BdRWC38L5JUDMTYNNxJGcUwB",
+    "server": "62.212.239.69",
+    "server_port": 47644,
+    "password": "LxzfAVfKbPqQx4SDCat7EJyE",
     "method": "aes-256-gcm",
-    "remarks": "BE 🇧🇪 Brussels 4",
+    "remarks": "(@proSSHbot)Azerbaijan5",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -60,11 +60,11 @@
     "udpdns": false
   },
   {
-    "server": "138.199.16.145",
-    "server_port": 49396,
-    "password": "BdRWC38L5JUDMTYNNxJGcUwB",
+    "server": "176.125.231.5",
+    "server_port": 33148,
+    "password": "CMduaFXddcQbwNAAs7xFDnc8",
     "method": "aes-256-gcm",
-    "remarks": "FR 🇫🇷 Marseille 1",
+    "remarks": "AE 🇦🇪 Dubai",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -75,11 +75,11 @@
     "udpdns": false
   },
   {
-    "server": "138.199.16.152",
-    "server_port": 49396,
-    "password": "BdRWC38L5JUDMTYNNxJGcUwB",
+    "server": "27.131.164.85",
+    "server_port": 31764,
+    "password": "YgusH2MWA8PWc3p2VDsR7AVv",
     "method": "aes-256-gcm",
-    "remarks": "FR 🇫🇷 Marseille 2",
+    "remarks": "TH 🇹🇭 Bangkok",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -90,11 +90,11 @@
     "udpdns": false
   },
   {
-    "server": "138.199.16.150",
-    "server_port": 49396,
-    "password": "BdRWC38L5JUDMTYNNxJGcUwB",
+    "server": "202.143.110.32",
+    "server_port": 31764,
+    "password": "YgusH2MWA8PWc3p2VDsR7AVv",
     "method": "aes-256-gcm",
-    "remarks": "FR 🇫🇷 Marseille 3",
+    "remarks": "VN 🇻🇳 Ho Chi Minh City",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -105,11 +105,11 @@
     "udpdns": false
   },
   {
-    "server": "185.166.84.55",
-    "server_port": 49396,
-    "password": "BdRWC38L5JUDMTYNNxJGcUwB",
+    "server": "87.239.255.121",
+    "server_port": 31764,
+    "password": "YgusH2MWA8PWc3p2VDsR7AVv",
     "method": "aes-256-gcm",
-    "remarks": "FR 🇫🇷 Marseille 4",
+    "remarks": "IL 🇮🇱 Tel Aviv",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -120,11 +120,11 @@
     "udpdns": false
   },
   {
-    "server": "143.244.57.103",
-    "server_port": 49396,
-    "password": "BdRWC38L5JUDMTYNNxJGcUwB",
+    "server": "27.131.164.85",
+    "server_port": 31764,
+    "password": "YgusH2MWA8PWc3p2VDsR7AVv",
     "method": "aes-256-gcm",
-    "remarks": "FR 🇫🇷 Paris 1",
+    "remarks": "TH 🇹🇭 Bangkok",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -135,71 +135,11 @@
     "udpdns": false
   },
   {
-    "server": "143.244.57.108",
-    "server_port": 49396,
-    "password": "BdRWC38L5JUDMTYNNxJGcUwB",
+    "server": "87.239.255.121",
+    "server_port": 31764,
+    "password": "YgusH2MWA8PWc3p2VDsR7AVv",
     "method": "aes-256-gcm",
-    "remarks": "FR 🇫🇷 Paris 2",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
-    "server": "143.244.57.117",
-    "server_port": 49396,
-    "password": "BdRWC38L5JUDMTYNNxJGcUwB",
-    "method": "aes-256-gcm",
-    "remarks": "FR 🇫🇷 Paris 3",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
-    "server": "143.244.57.75",
-    "server_port": 49396,
-    "password": "BdRWC38L5JUDMTYNNxJGcUwB",
-    "method": "aes-256-gcm",
-    "remarks": "FR 🇫🇷 Paris 4",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
-    "server": "185.108.106.182",
-    "server_port": 49396,
-    "password": "BdRWC38L5JUDMTYNNxJGcUwB",
-    "method": "aes-256-gcm",
-    "remarks": "FR 🇫🇷 Bordeaux 2",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
-    "server": "193.29.106.213",
-    "server_port": 49396,
-    "password": "BdRWC38L5JUDMTYNNxJGcUwB",
-    "method": "aes-256-gcm",
-    "remarks": "DE 🇩🇪 Berlin 3",
+    "remarks": "IL 🇮🇱 Tel Aviv",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
