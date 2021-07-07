@@ -15,6 +15,14 @@
     "udpdns": false
   },
   {
+  "server": "165.231.163.3",
+  "server_port": 33992,
+  "local_port": 1080,
+  "password": "8n6pwAcrrv2pj6tFY2p3TbQ6",
+  "timeout": 600,
+  "method": "aes-256-gcm"
+},
+  {
     "server": "146.59.0.168",
     "server_port": 809,
     "password": "G!yBwPWH3Vao",
