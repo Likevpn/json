@@ -1,35 +1,5 @@
 [
   {
-    "server": "213.174.129.4",
-    "server_port": 989,
-    "password": "f8f7aCzcPKbsF8p3",
-    "method": "aes-256-cfb",
-    "remarks": "United States 🇺🇸 Ashburn 1",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
-    "server": "92.38.169.196",
-    "server_port": 826,
-    "password": "sF43Xt2gONqcgFX563",
-    "method": "chacha20-ietf-poly1305",
-    "remarks": "United States 🇺🇸 New Jersey 2",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
     "server": "5.188.111.182",
     "server_port": 826,
     "password": "sF43Xt2gONqcgFX563",
@@ -105,86 +75,11 @@
     "udpdns": false
   },
   {
-    "server": "195.211.41.10",
-    "server_port": 989,
-    "password": "f8f7aCzcPKbsF8p3",
-    "method": "aes-256-cfb",
-    "remarks": "Ukraine 🇺🇦 Kharkiv 1",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
     "server": "212.237.210.158",
     "server_port": 989,
     "password": "f8f7aCzcPKbsF8p3",
     "method": "aes-256-cfb",
     "remarks": "Switzerland 🇨🇭 Zurich 1",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
-    "server": "158.247.213.230",
-    "server_port": 989,
-    "password": "f8f7aCzcPKbsF8p3",
-    "method": "aes-256-cfb",
-    "remarks": "South Korea 🇰🇷 Seoul 1",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
-    "server": "194.68.44.206",
-    "server_port": 989,
-    "password": "f8f7aCzcPKbsF8p3",
-    "method": "aes-256-cfb",
-    "remarks": "Romania 🇷🇴 Bucharest 1",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
-    "server": "185.89.238.36",
-    "server_port": 989,
-    "password": "f8f7aCzcPKbsF8p3",
-    "method": "aes-256-cfb",
-    "remarks": "Malta 🇲🇹 Qormi 1",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
-    "server": "176.97.70.125",
-    "server_port": 989,
-    "password": "f8f7aCzcPKbsF8p3",
-    "method": "aes-256-cfb",
-    "remarks": "Japan 🇯🇵 Tokyo 1",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -215,21 +110,6 @@
     "password": "f8f7aCzcPKbsF8p3",
     "method": "aes-256-cfb",
     "remarks": "Greece 🇬🇷 Thessaloniki 1",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
-    "server": "37.252.5.234",
-    "server_port": 989,
-    "password": "f8f7aCzcPKbsF8p3",
-    "method": "aes-256-cfb",
-    "remarks": "Estonia 🇪🇪 Tallinn 1",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
