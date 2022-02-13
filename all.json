@@ -1,20 +1,5 @@
 [
   {
-    "server": "108.61.85.27",
-    "server_port": 8388,
-    "password": "LikeVPNBase$$!!new",
-    "method": "aes-256-gcm",
-    "remarks": "🌟United States 🇺🇸 NewYork 1🌟",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
     "server": "207.246.80.173",
     "server_port": 8388,
     "password": "LikeVPNBase$$!!new",
@@ -30,11 +15,56 @@
     "udpdns": false
   },
   {
-    "server": "149.248.52.227",
+    "server": "45.77.158.158",
     "server_port": 8388,
     "password": "LikeVPNBase$$!!new",
     "method": "aes-256-gcm",
-    "remarks": "🌟Canada 🇨🇦 Toronto🌟",
+    "remarks": "🌟United States 🇺🇸 NewYork 3🌟",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "108.61.157.7",
+    "server_port": 8388,
+    "password": "LikeVPNBase$$!!new",
+    "method": "aes-256-gcm",
+    "remarks": "🌟United States 🇺🇸 NewYork 4🌟",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "149.248.63.108",
+    "server_port": 8388,
+    "password": "LikeVPNBase$$!!new",
+    "method": "aes-256-gcm",
+    "remarks": "🌟Canada 🇨🇦 Toronto 2🌟",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "155.138.150.153",
+    "server_port": 8388,
+    "password": "LikeVPNBase$$!!new",
+    "method": "aes-256-gcm",
+    "remarks": "🌟Canada 🇨🇦 Toronto 3🌟",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -60,11 +90,26 @@
     "udpdns": false
   },
   {
-    "server": "140.82.38.252",
+    "server": "95.179.243.145",
     "server_port": 8388,
     "password": "LikeVPNBase$$!!new",
     "method": "aes-256-gcm",
-    "remarks": "🌟Germany 🇩🇪 Frankfurt🌟",
+    "remarks": "🌟Germany 🇩🇪 Frankfurt 2🌟",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "104.238.167.253",
+    "server_port": 8388,
+    "password": "LikeVPNBase$$!!new",
+    "method": "aes-256-gcm",
+    "remarks": "🌟Germany 🇩🇪 Frankfurt 3🌟",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -80,6 +125,21 @@
     "password": "MTNmci$$!!",
     "method": "aes-256-gcm",
     "remarks": "🌟Czech Republic 🇨🇿 Karlovy🌟",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "89.221.218.253",
+    "server_port": 8388,
+    "password": "MTNmci$$!!",
+    "method": "aes-256-gcm",
+    "remarks": "🌟Czech Republic 🇨🇿 Karlovy 2🌟",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
