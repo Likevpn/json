@@ -1,4 +1,19 @@
 [
+    {
+    "server": "141.164.43.183",
+    "server_port": 403,
+    "password": "fgkjnkgtyfuyhohjnfg",
+    "method": "chacha20-ietf-poly1305",
+    "remarks": "🌟 South Korea 🇰🇷 Seoul 1 🌟",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
   {
     "server": "77.247.126.153",
     "server_port": 809,
