@@ -120,21 +120,6 @@
     "udpdns": false
   },
   {
-    "server": "139.162.189.117",
-    "server_port": 8080,
-    "password": "KixLvKzwjekG00rm",
-    "method": "aes-256-gcm",
-    "remarks": "Germany 🇩🇪 Frankfurt $h",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
     "server": "89.163.140.155",
     "server_port": 8118,
     "password": "cdBIDV42DCwnfIN",
