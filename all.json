@@ -60,21 +60,6 @@
     "udpdns": false
   },
   {
-    "server": "37.120.219.218",
-    "server_port": 807,
-    "password": "G!yBwPWH3Vao",
-    "method": "chacha20-ietf-poly1305",
-    "remarks": "United States 🇺🇸 California $vp",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
     "server": "95.174.23.218",
     "server_port": 989,
     "password": "f8f7aCzcPKbsF8p3",
