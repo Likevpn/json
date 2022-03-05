@@ -105,21 +105,6 @@
     "udpdns": false
   },
   {
-    "server": "188.241.83.130",
-    "server_port": 809,
-    "password": "G!yBwPWH3Vao",
-    "method": "chacha20-ietf-poly1305",
-    "remarks": "France 🇫🇷 Paris $vp",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
     "server": "198.244.150.26",
     "server_port": 826,
     "password": "sF43Xt2gONqcgFX563",
@@ -185,21 +170,6 @@
     "password": "cdBIDV42DCwnfIN",
     "method": "aes-256-gcm",
     "remarks": "Germany 🇩🇪 Düsseldorf $vp-h",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
-    "server": "196.196.156.122",
-    "server_port": 809,
-    "password": "G!yBwPWH3Vao",
-    "method": "chacha20-ietf-poly1305",
-    "remarks": "Sweden 🇸🇪 Stockholm $vp",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
