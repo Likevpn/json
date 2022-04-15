@@ -1,115 +1,10 @@
 [
   {
-    "server": "45.147.160.86",
-    "server_port": 813,
-    "password": "Ultr@r00t_2017",
-    "method": "chacha20-ietf-poly1305",
-    "remarks": "NL 🇳🇱 Amsterdam 🌟Vip🌟",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
-    "server": "31.133.100.49",
-    "server_port": 50004,
-    "password": "4415934295",
-    "method": "aes-256-cfb",
-    "remarks": "Israel 🇮🇱 Haifa $vp-h",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
-    "server": "185.162.126.217",
-    "server_port": 50004,
-    "password": "4415934295",
-    "method": "aes-256-cfb",
-    "remarks": "Israel 🇮🇱 Haifa $h",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
-    "server": "193.108.118.36",
-    "server_port": 5000,
-    "password": "Y6R9pAtvxxzmGC",
-    "method": "aes-256-gcm",
-    "remarks": "Germany 🇩🇪 Frankfurt $vp-h",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
-    "server": "37.235.52.140",
-    "server_port": 989,
-    "password": "f8f7aCzcPKbsF8p3",
-    "method": "aes-256-cfb",
-    "remarks": "Chile 🇨🇱 Vina del Mar $vp-h",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
-    "server": "37.61.223.23",
-    "server_port": 18760,
-    "password": "hg49$WH8943g3",
-    "method": "chacha20-ietf-poly1305",
-    "remarks": "Germany 🇩🇪 Frankfurt $h",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
-    "server": "213.183.63.218",
-    "server_port": 9010,
-    "password": "f63gg8EruDnUrmz4",
-    "method": "aes-256-cfb",
-    "remarks": "BG 🇧🇬 Sofia $h",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
-    "server": "51.159.30.61",
+    "server": "196.196.156.122",
     "server_port": 808,
     "password": "G!yBwPWH3Vao",
     "method": "chacha20-ietf-poly1305",
-    "remarks": "France 🇫🇷 Paris $vp-h",
+    "remarks": "Sweden 🇸🇪 Stockholm 🌟 vip 🌟",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -120,11 +15,11 @@
     "udpdns": false
   },
   {
-    "server": "185.167.116.252",
-    "server_port": 9001,
-    "password": "UkXRsXvR6buDMG2Y",
-    "method": "aes-256-cfb",
-    "remarks": "Australia 🇳🇿 Sydney $vp",
+    "server": "195.226.192.55",
+    "server_port": 444,
+    "password": "FruvDom0",
+    "method": "chacha20-ietf-poly1305",
+    "remarks": "Ukraine 🇺🇦 Kyiv 🌟 vip 🌟",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -135,11 +30,11 @@
     "udpdns": false
   },
   {
-    "server": "37.120.213.230",
-    "server_port": 50004,
-    "password": "4415934295",
-    "method": "aes-256-cfb",
-    "remarks": "CH 🇨🇭Zurich $vp",
+    "server": "104.224.141.225",
+    "server_port": 700,
+    "password": "boDsItMJ2K6b",
+    "method": "chacha20-ietf-poly1305",
+    "remarks": "United States 🇺🇸 New Jersey $h",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -150,11 +45,101 @@
     "udpdns": false
   },
   {
-    "server": "92.38.171.103",
-    "server_port": 50004,
-    "password": "4415934295",
+    "server": "172.99.190.84",
+    "server_port": 443,
+    "password": "pKEW8JPByTVTLtM",
+    "method": "aes-256-gcm",
+    "remarks": "United Kingdom 🇬🇧 London $h",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "109.169.72.249",
+    "server_port": 808,
+    "password": "G!yBwPWH3Vao",
+    "method": "chacha20-ietf-poly1305",
+    "remarks": "United Arab Emirates 🇦🇪 Dubai $h",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "188.241.83.130",
+    "server_port": 809,
+    "password": "G!yBwPWH3Vao",
+    "method": "chacha20-ietf-poly1305",
+    "remarks": "France 🇫🇷 Paris $vp",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "95.142.175.14",
+    "server_port": 443,
+    "password": "tkAx1ehPPkMN",
+    "method": "chacha20-ietf-poly1305",
+    "remarks": "France 🇫🇷 Paris $h",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "91.232.105.253",
+    "server_port": 2375,
+    "password": "faBAoD54k87UJG7",
+    "method": "aes-256-gcm",
+    "remarks": "Netherlands 🇳🇱 Naaldwijk $h",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "193.176.86.190",
+    "server_port": 805,
+    "password": "G!yBwPWH3Vao",
+    "method": "chacha20-ietf-poly1305",
+    "remarks": "Germany 🇩🇪 Berlin $vp",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "185.219.134.52",
+    "server_port": 50007,
+    "password": "7122910143",
     "method": "aes-256-cfb",
-    "remarks": "Espain 🇪🇸 Madrid $vp",
+    "remarks": "Turkey 🇹🇷 Istanbul $h",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
