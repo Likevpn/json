@@ -1,95 +1,5 @@
 [
   {
-    "server": "5.188.111.182",
-    "server_port": 826,
-    "password": "sF43Xt2gONqcgFX563",
-    "method": "chacha20-ietf-poly1305",
-    "remarks": "United States 🇺🇸 California 🌟vip🌟",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
-    "server": "79.133.110.137",
-    "server_port": 1002,
-    "password": "yKXvZ7ozrV046F4p8q6501LH",
-    "method": "chacha20-ietf-poly1305",
-    "remarks": "United States 🇺🇲 New Jersey 🌟vip🌟",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
-    "server": "92.38.169.221",
-    "server_port": 29416,
-    "password": "94hb2JV5q16Q",
-    "method": "chacha20-ietf-poly1305",
-    "remarks": "United States 🇺🇲 New York 🌟vip🌟",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
-    "server": "77.120.115.235",
-    "server_port": 444,
-    "password": "Fowwipho",
-    "method": "chacha20-ietf-poly1305",
-    "remarks": "Ukraine 🇺🇦 Kyiv 🌟 vip 🌟",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
-    "server": "176.103.61.162",
-    "server_port": 444,
-    "password": "IjBemsAg",
-    "method": "chacha20-ietf-poly1305",
-    "remarks": "Ukraine 🇺🇦 Kyiv 🌟 vip2 🌟",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
-    "server": "198.57.27.184",
-    "server_port": 8009,
-    "password": "XKFKl2rULjIp74",
-    "method": "aes-256-gcm",
-    "remarks": "Canada 🇨🇦 Toronto $h",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
     "server": "62.210.113.98",
     "server_port": 5001,
     "password": "Y6R9pAtvxxzmGC",
@@ -150,26 +60,11 @@
     "udpdns": false
   },
   {
-    "server": "213.183.53.207",
-    "server_port": 9073,
-    "password": "daFYagqDdBdA6VTX",
-    "method": "aes-256-cfb",
-    "remarks": "Russia 🇷🇺 Moscow $h",
-    "route": "all",
-    "remote_dns": "dns.google",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
-  {
-    "server": "92.223.65.31",
-    "server_port": 29092,
-    "password": "ypoq8dJBPqst",
+    "server": "93.186.201.158",
+    "server_port": 804,
+    "password": "G!yBwPWH3Vao",
     "method": "chacha20-ietf-poly1305",
-    "remarks": "Russia 🇷🇺 Moscow $h2",
+    "remarks": "🇩🇪 DE - North Rhine-Westphalia - Düsseldorf",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -180,11 +75,11 @@
     "udpdns": false
   },
   {
-    "server": "5.181.234.254",
+    "server": "158.58.173.240",
     "server_port": 812,
     "password": "G!yBwPWH3Vao",
     "method": "chacha20-ietf-poly1305",
-    "remarks": "United States 🇺🇸 New York $vp-h",
+    "remarks": "Italy 🇮🇹 Codogno",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -195,11 +90,116 @@
     "udpdns": false
   },
   {
-    "server": "142.202.48.7",
-    "server_port": 8091,
-    "password": "PCnnH6SQSnfoS27",
-    "method": "aes-256-gcm",
-    "remarks": "United States 🇺🇸 New York $h",
+    "server": "51.38.118.42",
+    "server_port": 810,
+    "password": "Ultr@r00t_2017",
+    "method": "chacha20-ietf-poly1305",
+    "remarks": "🇩🇪 DE - Hesse - Frankfurt am Main - AS16276 OVH SAS",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "85.114.138.92",
+    "server_port": 809,
+    "password": "G!yBwPWH3Vao",
+    "method": "chacha20-ietf-poly1305",
+    "remarks": "🇩🇪 DE - North Rhine-Westphalia - Düsseldorf - AS24961 myLoc managed IT AG",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "92.38.139.136",
+    "server_port": 801,
+    "password": "G!yBwPWH3Vao",
+    "method": "chacha20-ietf-poly1305",
+    "remarks": "🇷🇺 RU - Moscow - Moscow - AS202422 G-Core Labs S.A.",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "196.247.59.154",
+    "server_port": 803,
+    "password": "G!yBwPWH3Vao",
+    "method": "chacha20-ietf-poly1305",
+    "remarks": "Canada 🇨🇦 Toronto",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "196.247.59.156",
+    "server_port": 804,
+    "password": "G!yBwPWH3Vao",
+    "method": "chacha20-ietf-poly1305",
+    "remarks": "Canada 🇨🇦 Toronto",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "38.107.226.51",
+    "server_port": 811,
+    "password": "Ultr@r00t_2017",
+    "method": "chacha20-ietf-poly1305",
+    "remarks": "🇺🇸 US - Virginia ",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "167.88.63.3",
+    "server_port": 811,
+    "password": "Ultr@r00t_2017",
+    "method": "chacha20-ietf-poly1305",
+    "remarks": "🇺🇸 US - Georgia",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "193.37.252.210",
+    "server_port": 805,
+    "password": "G!yBwPWH3Vao",
+    "method": "chacha20-ietf-poly1305",
+    "remarks": "🇺🇸 US - Florida ",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
