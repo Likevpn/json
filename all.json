@@ -1,5 +1,35 @@
 [
   {
+    "server": "144.202.18.8",
+    "server_port": 7204,
+    "password": "BR!kh@dead$%77",
+    "method": "aes-256-gcm",
+    "remarks": "USA 🇺🇸 Atlanta 1",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "144.202.20.230",
+    "server_port": 7204,
+    "password": "BR!kh@dead$%77",
+    "method": "aes-256-gcm",
+    "remarks": "USA 🇺🇸 Atlanta 2",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
     "server": "149.28.114.130",
     "server_port": 7204,
     "password": "BR!kh@dead$%77",
@@ -15,11 +45,11 @@
     "udpdns": false
   },
   {
-    "server": "207.148.27.216",
+    "server": "149.28.250.116",
     "server_port": 7204,
     "password": "BR!kh@dead$%77",
-    "method": "camellia-128-cfb",
-    "remarks": "USA 🇺🇸 New Jersey",
+    "method": "aes-256-gcm",
+    "remarks": "USA 🇺🇸 Dallas 1",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -30,11 +60,11 @@
     "udpdns": false
   },
   {
-    "server": "149.28.233.41",
+    "server": "144.202.73.16",
     "server_port": 7204,
     "password": "BR!kh@dead$%77",
-    "method": "camellia-128-cfb",
-    "remarks": "USA 🇺🇸 New Jersey",
+    "method": "aes-256-gcm",
+    "remarks": "USA 🇺🇸 Dallas 2",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -45,11 +75,11 @@
     "udpdns": false
   },
   {
-    "server": "149.28.226.112",
+    "server": "144.202.77.172",
     "server_port": 7204,
     "password": "BR!kh@dead$%77",
-    "method": "camellia-128-cfb",
-    "remarks": "USA 🇺🇸 New Jersey",
+    "method": "aes-256-gcm",
+    "remarks": "USA 🇺🇸 Dallas 3",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -60,11 +90,11 @@
     "udpdns": false
   },
   {
-    "server": "144.202.3.91",
+    "server": "149.28.243.160",
     "server_port": 7204,
     "password": "BR!kh@dead$%77",
-    "method": "camellia-128-cfb",
-    "remarks": "USA 🇺🇸 New Jersey",
+    "method": "aes-256-gcm",
+    "remarks": "USA 🇺🇸 Dallas 4",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -75,11 +105,26 @@
     "udpdns": false
   },
   {
-    "server": "149.28.202.153",
-    "server_port": 7204,
-    "password": "BR!kh@dead$%77",
+    "server": "38.114.114.139",
+    "server_port": 806,
+    "password": "G!yBwPWH3Vao",
     "method": "chacha20-ietf-poly1305",
-    "remarks": "USA 🇺🇸 Silicon Valley 3",
+    "remarks": "USA 🇺🇸 Los Angeles",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "144.202.91.202",
+    "server_port": 7204,
+    "password": "BR!kh@dead$%77",
+    "method": "aes-256-gcm",
+    "remarks": "USA 🇺🇸 Seattle new",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
@@ -105,11 +150,11 @@
     "udpdns": false
   },
   {
-    "server": "38.114.114.139",
-    "server_port": 806,
-    "password": "G!yBwPWH3Vao",
+    "server": "149.28.202.153",
+    "server_port": 7204,
+    "password": "BR!kh@dead$%77",
     "method": "chacha20-ietf-poly1305",
-    "remarks": "USA 🇺🇸 Los Angeles",
+    "remarks": "USA 🇺🇸 Silicon Valley 3",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
