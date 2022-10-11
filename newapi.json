@@ -16,7 +16,7 @@
    {"server_id":"14","HostName":"United States","city":"Los Angeles","flag":"United States","IP":"ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@38.114.114.139:796#USA%20%F0%9F%87%BA%F0%9F%87%B8%20Los%20Angeles","Ping":"38.114.114.139","ServerStatus":"1","type":"1"},
    {"server_id":"15","HostName":"United States","city":"Silicon Valley","flag":"United States","IP":"ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCUiFraEBkZWFkJCU3Nw@149.28.202.153:7194#USA%20%F0%9F%87%BA%F0%9F%87%B8%20Silicon%20Valley%203","Ping":"149.28.202.153","ServerStatus":"1","type":"1"},
    {"server_id":"16","HostName":"Czech Republic","city":"Lukov","flag":"Czech Republic","IP":"ss://cmM0LW1kNTpCUiFraEBkZWFkJCU3Nw@89.221.217.106:70#Czech%20Republic%20%F0%9F%87%A8%F0%9F%87%BF%20Lukov","Ping":"89.221.217.106","ServerStatus":"1","type":"1"},
-  {"server_id":"17","HostName":"old-Italy","city":"Rome","flag":"Italy","IP":"ss://YWVzLTI1Ni1nY206aGc0OSRXSDg5NDNnMw@84.33.193.79:18750#%F0%9F%87%AE%F0%9F%87%B9IT","Ping":"84.33.193.79","ServerStatus":"1","type":"1"}
+  {"server_id":"17","HostName":"Italy","city":"Rome","flag":"Italy","IP":"ss://YWVzLTI1Ni1nY206aGc0OSRXSDg5NDNnMw@84.33.193.79:18750#%F0%9F%87%AE%F0%9F%87%B9IT","Ping":"84.33.193.79","ServerStatus":"1","type":"1"}
 
  ]
 }
