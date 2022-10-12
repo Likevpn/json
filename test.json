@@ -1,7 +1,6 @@
-
 {"status":1,"message":"Success","servers":
  [
-     {"server_id":"1","HostName":"Germany","city":"Frankfurt 1","flag":"Germany","IP":"vless://88372542-431f-11ed-b878-0242ac120002@104.22.31.0:70?path=%2Filoveiran&security=none&encryption=none&host=vl1.gheychi.ml&type=ws#Germany+%F0%9F%87%A9%F0%9F%87%AA","Ping":"116.203.79.243","ServerStatus":"1","type":"1"},
+  {"server_id":"1","HostName":"Germany","city":"Frankfurt 1","flag":"Germany","IP":"vless://88372542-431f-11ed-b878-0242ac120002@104.22.31.0:70?path=%2Filoveiran&security=none&encryption=none&host=vl1.gheychi.ml&type=ws#Germany+%F0%9F%87%A9%F0%9F%87%AA","Ping":"116.203.79.243","ServerStatus":"1","type":"1"},
    {"server_id":"13","HostName":"United States","city":"Dallas","flag":"United States","IP":"ss://YWVzLTI1Ni1nY206QlIha2hAZGVhZCQlNzc@149.28.243.160:7194#USA%20%F0%9F%87%BA%F0%9F%87%B8%20Dallas%204","Ping":"149.28.243.160","ServerStatus":"1","type":"1"},
    {"server_id":"14","HostName":"United States","city":"Los Angeles","flag":"United States","IP":"ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@38.114.114.139:796#USA%20%F0%9F%87%BA%F0%9F%87%B8%20Los%20Angeles","Ping":"38.114.114.139","ServerStatus":"1","type":"1"},
    {"server_id":"16","HostName":"Czech Republic","city":"Lukov","flag":"Czech Republic","IP":"ss://cmM0LW1kNTpCUiFraEBkZWFkJCU3Nw@89.221.217.106:70#Czech%20Republic%20%F0%9F%87%A8%F0%9F%87%BF%20Lukov","Ping":"89.221.217.106","ServerStatus":"1","type":"1"},
@@ -25,5 +24,6 @@
   {"server_id":"35","HostName":"Canada","city":"MTN-MCI-WiFi","flag":"Canada","IP":"vmess://eyJhZGQiOiIxNTUuMTM4LjEzMC4xODkiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiNDUzNjRjOGYtOGU3Yi00NzI0LTliMWQtZjk4NTMwMWI4OTI4IiwibmV0Ijoid3MiLCJwYXRoIjoiOGU1MzhmZmMiLCJwb3J0IjoiMzM4MjEiLCJwcyI6IvCfh6jwn4emIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9","Ping":"155.138.130.189","ServerStatus":"1","type":"1"},
   {"server_id":"36","HostName":"Canada","city":"MTN-MCI-WiFi","flag":"Canada","IP":"vmess://eyJhZGQiOiIyMTYuMTI4LjE3OS4yNDgiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiOTRiMDJkZTUtNTlhMS00OGNmLTg0NGUtNjhiNzc0OGNmMGNhIiwibmV0Ijoid3MiLCJwYXRoIjoiN2E5NjUzNDQiLCJwb3J0IjoiMjgzOTYiLCJwcyI6IvCfh6jwn4emIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9","Ping":"216.128.179.248","ServerStatus":"1","type":"1"},
   {"server_id":"37","HostName":"South Korea","city":"MTN-MCI-WiFi","flag":"South Korea","IP":"vmess://eyJhZGQiOiIxNDEuMTY0LjU5LjEyMiIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiJlMzU3YzY0My04OGQzLTQyMmItYWI3Ni1lOGU0ZjFjOGY4NTgiLCJuZXQiOiJ3cyIsInBhdGgiOiIyY2I0ZjZhZSIsInBvcnQiOiIxMTkwMCIsInBzIjoi8J+HsPCfh7ciLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=","Ping":"141.164.59.122","ServerStatus":"1","type":"1"},
+  {"server_id":"38","HostName":"South Korea","city":"MTN-MCI-WiFi","flag":"South Korea","IP":"vmess://eyJhZGQiOiIxNDEuMTY0LjYwLjkiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiM2RjZWQwMjYtNjdmOS00OWQxLWI5NDEtNTFmNTRlYjNlZDRjIiwibmV0Ijoid3MiLCJwYXRoIjoiNDA3MjE2ZDIiLCJwb3J0IjoiMzY4NDQiLCJwcyI6IvCfh7Dwn4e3Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9","Ping":"141.164.60.9","ServerStatus":"1","type":"1"}
  ]
 }
