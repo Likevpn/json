@@ -8,6 +8,6 @@
    {"server_id":"44","HostName":"Singapore","city":"IRAN->Tunnel 6","flag":"Singapore","IP":"vmess://eyJhZGQiOiJhcnZhbmNsb3VkLmNvbSIsImFpZCI6IjAiLCJob3N0Ijoic2FuYW5kYWouaXIiLCJpZCI6ImI4MzEzODFkLTYzMjQtNGQ1My1hZDRmLThjZGE0OGIzMDgxMSIsIm5ldCI6IndzIiwicGF0aCI6Ii9ncmFwaHFsIiwicG9ydCI6IjcwIiwicHMiOiLwn4e48J+HrCDwn4eu8J+HtyBUdW5uZWwgNiIsInNjeSI6ImNoYWNoYTIwLXBvbHkxMzA1Iiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=","Ping":"185.143.234.120","ServerStatus":"1","type":"1"},
    {"server_id":"45","HostName":"France","city":"IRAN->Tunnel 7","flag":"France","IP":"vmess://eyJhZGQiOiJhcnZhbmNsb3VkLmNvbSIsImFpZCI6IjAiLCJob3N0Ijoia29vY2hlaHBhcy5jb20iLCJpZCI6ImI4MzEzODFkLTYzMjQtNGQ1My1hZDRmLThjZGE0OGIzMDgxMSIsIm5ldCI6IndzIiwicGF0aCI6Ii9ncmFwaHFsIiwicG9ydCI6IjcwIiwicHMiOiLwn4er8J+HtyDwn4eu8J+HtyBUdW5uZWwgNyIsInNjeSI6ImNoYWNoYTIwLXBvbHkxMzA1Iiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=","Ping":"185.143.234.120","ServerStatus":"1","type":"1"},
     {"server_id":"45","HostName":"France","city":"IRAN->Tunnel 7","flag":"France","IP":"vmess://eyJhZGQiOiJhcnZhbmNsb3VkLmNvbSIsImFpZCI6IjAiLCJob3N0Ijoia29vY2hlaHBhcy5jb20iLCJpZCI6ImI4MzEzODFkLTYzMjQtNGQ1My1hZDRmLThjZGE0OGIzMDgxMSIsIm5ldCI6IndzIiwicGF0aCI6Ii9ncmFwaHFsIiwicG9ydCI6IjcwIiwicHMiOiLwn4er8J+HtyDwn4eu8J+HtyBUdW5uZWwgNyIsInNjeSI6ImNoYWNoYTIwLXBvbHkxMzA1Iiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=","Ping":"185.143.234.120","ServerStatus":"1","type":"1"},
-  {"key":1}
+     {"key":1 ,"IP":"vmess://" }
  ]
 }
