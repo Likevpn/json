@@ -1,7 +1,6 @@
-{"key":"1","message":"Success","servers":
+{"key":"1","message":"Success","Admob":
  [
-   {"server_id":"39","HostName":"France","city":"IRAN->Tunnel 1","flag":"France","Server":"vmess://eyJhZGQiOiJhcGkud2F5LW9mLWZyZWVkb20uY29tIiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6ImI4MzEzODFkLTYzMjQtNGQ1My1hZDRmLThjZGE0OGIzMDgxMSIsIm5ldCI6IndzIiwicGF0aCI6Ii9ncmFwaHFsIiwicG9ydCI6IjcwIiwicHMiOiLwn4er8J+HtyDwn4eu8J+HtyBUdW5uZWwgMSIsInNjeSI6ImNoYWNoYTIwLXBvbHkxMzA1Iiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=","Ping":"185.143.234.120","key":"","type":"1"},
-     {"server_id":"43","HostName":"Singapore","city":"IRAN->Tunnel 5","flag":"Singapore","Server":"vmess://eyJhZGQiOiJhcnZhbmNsb3VkLmNvbSIsImFpZCI6IjAiLCJob3N0IjoibWFoc2Fwcm94eS5jb20iLCJpZCI6ImI4MzEzODFkLTYzMjQtNGQ1My1hZDRmLThjZGE0OGIzMDgxMSIsIm5ldCI6IndzIiwicGF0aCI6Ii9ncmFwaHFsIiwicG9ydCI6IjcwIiwicHMiOiLwn4e48J+HrCDwn4eu8J+HtyBUdW5uZWwgNSIsInNjeSI6ImNoYWNoYTIwLXBvbHkxMzA1Iiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=","Ping":"185.143.234.120","key":"","type":"1"}
+     {"NativeToken":"ca-app-pub-5504931277954439/4334174364","Interstitial":"ca-app-pub-5504931277954439/2890366229","REWARD_AD":"ca-app-pub-5504931277954439/5268245412","type":"1"}
 
 
  ]
