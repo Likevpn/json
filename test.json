@@ -2,6 +2,6 @@
  [ 
   {"server_id":"73","HostName":"Bulgaria","city":"Server 1","flag":"Bulgaria","IP":"dmxlc3M6Ly9hYjc0MWI1ZC01YzI1LTRmYTgtYmQ3ZC1jOTZjZGEwN2NjMmNAMTU5LjY5LjkuMjY6MjIyMi8","Ping":"193.37.213.253","ServerStatus":"1","type":"1"},
    {"server_id":"87","HostName":"Czechia","city":"Server 1","flag":"Czechia","IP":"ZW5jcnlwdGlvbj1ub25lJmhvc3Q9c291cmNlZm9yZ2UubmV0JnR5cGU9dGNwJmhlYWRlclR5cGU9aHR0cCNzZXJ2ZXI1LTh5bnBhMHpoJTIzc2VydmVyMTAKdmxlc3M6Ly9mMThkNDdjMS1lNDRjLTRkOWQtYTA2OS1jZTc5YWRhNWFkMDBAMTU5LjY5LjkuMjY6ODA4OC8","Ping":"89.221.217.226","ServerStatus":"1","type":"1"},
-  { "server_id": "5", "HostName": "Austria", "city": "OV Server", "flag": "Austria", "IP":"dmxlc3M6Ly84NjExM2I0YS04Mzk1LTQ2OTEtOGNmMy0yYWJmOWU1MWI3N2ZAZG93bmxvYWRjeS50ZWNoOjg1Njk/dHlwZT1ncnBjJnNlcnZpY2VOYW1lPUxpa2VWUE4mbW9kZT1tdWx0aSZzZWN1cml0eT10bHMmZnA9JmFscG49aDIlMkNodHRwJTJGMS4xJnNuaT1sYXNoLmhpdmV2cG4ub25saW5lI0FULVZpZW5uYS0x", "Ping": "", "ServerStatus": "1", "type": "1" },
+{ "server_id": "9", "HostName": "Austria", "city": "ER Server", "flag": "Austria", "IP":"dmxlc3M6Ly9hMjBhOTM2OS05MGMzLTRmYmQtODA1MC0wZDkyMGZhODliOWNAeHBsYW5pbmcyMDIzLmNvbTo4NTY5P3R5cGU9Z3JwYyZzZXJ2aWNlTmFtZT1MaWtlVlBOJm1vZGU9bXVsdGkmc2VjdXJpdHk9dGxzJmZwPSZhbHBuPWgyJTJDaHR0cCUyRjEuMSZzbmk9bGFzaC5oaXZldnBuLm9ubGluZSNBVC1WaWVubmEtOQ==", "Ping": "", "ServerStatus": "1", "type": "1" }
  ]
 }
